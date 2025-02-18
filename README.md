@@ -1,6 +1,6 @@
 # Ollama Chat Agent 🚀
 
-![Project Banner](img/banner.png)
+![Project Banner](img/screenshot.png)
 
 ![License](https://img.shields.io/badge/license-MIT-green)  
 A lightweight conversational agent powered by **LangChain**, **Ollama**, and **FastAPI**. This project provides an interactive chat API using **Llama3** as the language model.
@@ -99,7 +99,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ## 📩 Contact
 - **Author:** [Tamer Hamad Faour](https://www.linkedin.com/in/tameronline/)
 - **GitHub:** [TamerOnLine](https://github.com/TamerOnLine)
-- **Website:** [mystrotamer.com](https://www.mystrotamer.com/)
+- **Website:** [mystrotamer.com](https://www.tameronline.com/)
 
 ---
 
