@@ -3,3 +3,7 @@ langchain_community
 langchain-ollama
 FastAPI
 Uvicorn 
+googlesearch-python
+langdetect
+textblob
+
